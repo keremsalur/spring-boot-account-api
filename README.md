@@ -15,7 +15,7 @@ Tablolar arası ilişki aşağıdaki gibidir:
 
 ![Test Customer](/assets/1.png "Test customer.")
 
-2. Api ayağa kaldırılarak [Open API Swagger index sayfası](http://localhost:8080/swagger-ui/index.html#/account-controller/createAccount) açılır.
+2. Uygulama ayağa kaldırılarak [Open API Swagger index sayfası](http://localhost:8080/swagger-ui/index.html#/account-controller/createAccount) açılır.
 
 3. Açılan sayfada account apiye istek yapılarak kullanılır.
 
